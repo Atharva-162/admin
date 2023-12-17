@@ -1,0 +1,25 @@
+/* Existing CSS styles */
+
+.homepage-container {
+    padding-top: 30px; /* Adjust the padding-top value for the desired displacement */
+    text-align: center; /* Center align all content */
+  }
+  
+  .welcome-text {
+    margin-bottom: 20px; /* Add some space below the welcome text */
+  }
+  
+  .image-buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    padding-top: 40px;
+  }
+  
+  .clickable-image {
+    width: 150px; /* Adjust width as needed */
+    height: 100px; /* Adjust height as needed */
+    margin: 0 10px; /* Adjust horizontal margin for space */
+    cursor: pointer;
+  }
+  
